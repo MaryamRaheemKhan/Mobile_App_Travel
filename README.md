@@ -52,7 +52,8 @@ PMD-React-Native-Travel-Food-App/
 
 ## Getting Started
 
-<img src="assets/home_tourism.png" alt="App Screenshot" width="400" height="300"/>
+<img src="assets/home_tourism.jpg" alt="App Screenshot" width="400" height="300"/>
+
 ![App Screenshot](assets/cafe_tourism.jpg)
 ![App Screenshot](assets/places_tourism.jpg)
 
