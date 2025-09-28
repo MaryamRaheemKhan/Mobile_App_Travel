@@ -52,6 +52,12 @@ PMD-React-Native-Travel-Food-App/
 
 ## Getting Started
 
+![App Screenshot](assets/home_tourism.png)
+![App Screenshot](assets/cafe_tourism.png)
+![App Screenshot](assets/places_tourism.png)
+
+
+
 ### Prerequisites
 
 Ensure you have the following installed on your system:
