@@ -34,7 +34,7 @@ const ItemCard = ({ imageSrc, title, location, data }) => {
   return (
     <TouchableOpacity
       onPress={() => navigation.navigate("ItemScreen", { param: data })}
-      className="rounded-md border border-gray-300 space-y-2 px-3 py-2 shadow-md bg-white w-[172px] ml-2 my-2"
+      className="rounded-md border border-gray-300 space-y-2 px-3 py-2 shadow-md bg-white w-[150px] ml-2 my-2"
     >
 
         <View className="absolute right-0 top-5 pr-2 z-10">
